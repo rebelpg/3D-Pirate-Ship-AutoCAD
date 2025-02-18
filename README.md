@@ -10,8 +10,8 @@
 <table border="0">
   <tr>
     <td><img src="middle.png" alt="middle" width="200"/></td>
-    <td><img src="SE_isometric.png" alt="SE_Isometric" width="200"/></td>
-    <td><img src="SW_isometric.png" alt="SW_Isometric" width="200"/></td>
+    <td><img src="SE_Isometric.png" alt="SE_Isometric" width="200"/></td>
+    <td><img src="SW_Isometric.png" alt="SW_Isometric" width="200"/></td>
   </tr>
   <tr>
     <td><img src="front.png" alt="front" width="200"/></td>
@@ -26,9 +26,10 @@
 </table>
 
 ## Download DWG File
-[Click here to download the DWG file](sideview.dwg)
+[Click here to download the DWG file](ship.dwg)
 ## Download STL File
-[Click here to download the STL file](final project ship.stl)
+[Click here to download the STL file](final_project_ship.stl)
+
 
 
 ---
