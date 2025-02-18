@@ -10,8 +10,8 @@
 <table border="0">
   <tr>
     <td><img src="middle.png" alt="middle" width="200"/></td>
-    <td><img src="SE_isometric.png" alt="SE Isometric" width="200"/></td>
-    <td><img src="SW_isometric.png" alt="SW Isometric" width="200"/></td>
+    <td><img src="SE_isometric.png" alt="SE_Isometric" width="200"/></td>
+    <td><img src="SW_isometric.png" alt="SW_Isometric" width="200"/></td>
   </tr>
   <tr>
     <td><img src="front.png" alt="front" width="200"/></td>
@@ -27,10 +27,9 @@
 
 ## Download DWG File
 [Click here to download the DWG file](sideview.dwg)
+## Download STL File
+[Click here to download the STL file](final project ship.stl)
+
 
 ---
 
-> **Note:**  
-> - Replace `sideview.dwg` with the exact DWG filename you have.  
-> - If you’d like to show the PDF or STL, add similar links.  
-> - Feel free to add more descriptions under each image if you want to highlight any details.
